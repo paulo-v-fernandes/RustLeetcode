@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "easy/*",
+    "medium/*",
+    "hard/*"
+]
+
+resolver = "2"
