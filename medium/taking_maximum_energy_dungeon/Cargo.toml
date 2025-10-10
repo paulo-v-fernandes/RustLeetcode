@@ -1,0 +1,6 @@
+[package]
+name = "taking_maximum_energy_dungeon"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
